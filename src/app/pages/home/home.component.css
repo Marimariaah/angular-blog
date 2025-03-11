@@ -1,0 +1,15 @@
+.container-articles {
+    margin-top: 3rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+header {
+    margin-top: 2.5rem;
+
+    height: 7rem;
+    display: flex;
+    justify-content: center;
+}

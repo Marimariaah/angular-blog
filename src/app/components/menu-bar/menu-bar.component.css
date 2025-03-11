@@ -1,0 +1,16 @@
+.container-menu-bar>ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-menu-bar>ul>li {
+    margin-right: 2rem;
+    list-style: none;
+    color: white;
+}
+
+a {
+    background-color: #333;
+    padding: 0.8rem;
+    border-radius: 8px;
+}
