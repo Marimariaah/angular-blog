@@ -8,6 +8,10 @@
     justify-content: flex-start;
 }
 
+.big-card-title {
+    margin-top: 1.5rem;
+}
+
 .big-card-title > a {
     font-size: 1rem;
     margin-top: 2rem;
