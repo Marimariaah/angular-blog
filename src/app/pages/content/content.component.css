@@ -1,0 +1,37 @@
+.container-content {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.content-cover > img {
+    width: 30rem;
+    height: 20rem;
+    min-width: 500px;
+    border-radius: 8px;
+}
+
+.content-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.content-description {
+    margin-top: 2rem ;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.content-description {
+    color: gray;
+}
+
+

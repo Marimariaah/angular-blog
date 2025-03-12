@@ -13,3 +13,22 @@
 a {
     text-decoration: none;
 }
+
+h1, strong  {
+  color: rgb(255, 250, 250);
+}
+
+h2 {
+  margin-top: 1rem;
+}
+
+ul , li{
+  margin-top: 0.5rem;
+  list-style-type: disc;
+  margin-left: 1.5rem;
+}
+
+p , ul , li {
+color:  rgb(190, 187, 187);
+margin-top: 0.5rem;
+}

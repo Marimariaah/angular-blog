@@ -1,9 +1,9 @@
 <div class="container-big-card">
-    <div class="big-card-img">
+    <div class="big-card-img" Id="1">
         <img id="imagem-card" src="{{photoCover}}" alt="img" />
     </div>
     <div class="big-card-title">
-        <a href="#">
+        <a [routerLink]="['content', Id]">
             {{cardTitle}}
         </a>
     </div>
